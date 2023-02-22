@@ -1,7 +1,7 @@
 '''
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 Medium
-Approach: Greedy and Binary Search
+Approach: Binary Search
 '''
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
